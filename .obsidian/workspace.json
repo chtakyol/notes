@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "b1295d6cc31f5c98",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bc2e0bd98cefd68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "616c76fc6f5c85ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/notes from google/State in Compose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "State in Compose"
+            },
+            "group": "39441cf07ae7655a"
+          }
+        ]
+      },
+      {
+        "id": "18f98f8f14075d23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "977187af82bd8d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/notes from google/State in Compose.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "State in Compose"
+            },
+            "group": "39441cf07ae7655a"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8e0ef726bbbacd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e49b3b611d2e5ce0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d00bb543769d4a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "88e31cd88b44b745",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c801f47fa5008f8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53161c53baa611fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "93d2e221ceed12eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "324c73119bb86c2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "android/notes from google/State in Compose.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for State in Compose"
+            }
+          },
+          {
+            "id": "5d9eb0610622b533",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "android/notes from google/State in Compose.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from State in Compose"
+            }
+          },
+          {
+            "id": "afd73b3e21e97f4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd49564850415272",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "android/notes from google/State in Compose.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of State in Compose"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "616c76fc6f5c85ae",
+  "lastOpenFiles": [
+    "android/notes from google/Jetpack Compose lifecycle.md",
+    "android/notes from google/State in Compose.md",
+    "android/Untitled.md",
+    "android/Unanswered questions.md",
+    "general software carpentary/Git flow.md",
+    "android/notes from google",
+    "general software carpentary/Untitled.canvas",
+    "general software carpentary",
+    "android"
+  ]
+}
