@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/About Architectural Patterns.md",
+                "file": "android/Architectural Patterns/About Architectural Patterns.md",
                 "mode": "source",
                 "source": false
               },
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53161c53baa611fe",
@@ -179,22 +178,23 @@
   },
   "active": "414b1d7f26f2d55e",
   "lastOpenFiles": [
+    "My Way of Android CI CD.pdf",
+    "android/Architectural Patterns/About Architectural Patterns.md",
+    "android/Architectural Patterns",
     "android/Android CPU Profiler/Android CPU Profiler.md",
     "android/Unanswered questions.md",
     "general software carpentary/Untitled.canvas",
-    "My Way of Android CI CD.pdf",
-    "general software carpentary/My Way of Android CI CD.md",
-    "android/About Architectural Patterns.md",
+    "General Software Carpentary/My Way of Android CI CD.md",
     "Untitled",
     "android/Android CPU Profiler/example.png",
     "android/Android CPU Profiler",
     "android/notes from google/call_chart_2-2X.png",
-    "general software carpentary/CI CD for Android.md",
-    "android/notes from google/Jetpack Compose lifecycle.md",
-    "android/notes from google/State in Compose.md",
-    "general software carpentary/Git flow.md",
-    "android/notes from google",
-    "general software carpentary",
+    "General Software Carpentary/CI CD for Android.md",
+    "android/Google Notes/Jetpack Compose lifecycle.md",
+    "android/Google Notes/State in Compose.md",
+    "General Software Carpentary/Git flow.md",
+    "android/Google Notes",
+    "General Software Carpentary",
     "android"
   ]
 }
