@@ -1,6 +1,7 @@
 1. Uygulama Mimarileri: * MVVM (Model-View-ViewModel) mimarisini öğrenmek. Bunun yanı sıra başka uygulama mimarilerini bilmek. (örneğin, MVC, MVP, Clean Architecture). 2. SOLID Prensipleri: * SOLID prensipleri hakkında bilgi sahibi olunması. 3. Mimariler Arasındaki Farklar: * Öğrenilen uygulama mimarilerinin farkları, avantajları ve dezavantajları hakkında kısa bir yazı hazırlanmalıdır. Bu yazıda mimarilerin kullanım alanları, hangi senaryolarda daha uygun oldukları gibi konulara değinilmelidir. 4. Mentör’e Sunum ya da Yazı: * Konularla ilgili olarak mentöre bir sunum yapılmalı veya yazılı bir doküman hazırlanarak sunulmalıdır.
 
 # What is an Architectural Pattern?
+#### Intro
 An architectural pattern is a general, reusable solution to organize the structure and responsibilities of your codebase.
 
 Architectural patterns define a way to structure your app by clearly separating responsibilities between UI, logic, and data — improving maintainability, testability, and scalability.
@@ -18,6 +19,8 @@ It defines how different parts of your application (like UI, data, business logi
 - **Separation of concerns**: UI logic, business logic, and data management are in separate layers.
 - **Testability**: Logic should be testable independent of Android framework.
 - **Scalability & Maintainability**: Easy to modify or extend features in the future.
+
+> Beyond structural clarity, architectural patterns make your codebase easier to collaborate on, more readable, and more adaptable to future changes — whether that's swapping a data source, refactoring modules, or onboarding new team members.
 
 Let's clear the meaning and definitions first;
 #### What is a Model
