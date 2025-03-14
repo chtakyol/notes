@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "153af225ce559baa",
+        "id": "8133bc5ab6b5cca3",
         "type": "tabs",
         "children": [
           {
-            "id": "7509f82124e0f8d7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "android/Android CPU Profiler/example.png"
-              },
-              "icon": "lucide-image",
-              "title": "example"
-            }
-          },
-          {
-            "id": "414b1d7f26f2d55e",
+            "id": "d5d1c241e43b394e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,23 +20,8 @@
               "icon": "lucide-file",
               "title": "About Architectural Patterns"
             }
-          },
-          {
-            "id": "b3e7d7f603946858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/Android CPU Profiler/Android CPU Profiler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Android CPU Profiler"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,18 +163,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3e7d7f603946858",
+  "active": "d5d1c241e43b394e",
   "lastOpenFiles": [
-    "android/OWASP/OWASP.md",
+    "android/Android CPU Profiler/Android CPU Profiler.md",
     "android/Architectural Patterns/About Architectural Patterns.md",
+    "android/OWASP/OWASP.md",
+    "android/Android CPU Profiler/example.png",
     "android/OWASP",
     "My Way of Android CI CD.pdf",
     "android/Architectural Patterns",
-    "android/Android CPU Profiler/Android CPU Profiler.md",
     "android/Unanswered questions.md",
     "general software carpentary/Untitled.canvas",
     "General Software Carpentary/My Way of Android CI CD.md",
-    "android/Android CPU Profiler/example.png",
     "android/Android CPU Profiler",
     "android/notes from google/call_chart_2-2X.png",
     "General Software Carpentary/CI CD for Android.md",

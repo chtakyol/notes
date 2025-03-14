@@ -22,7 +22,7 @@ It defines how different parts of your application (like UI, data, business logi
 
 > Beyond structural clarity, architectural patterns make your codebase easier to collaborate on, more readable, and more adaptable to future changes — whether that's swapping a data source, refactoring modules, or onboarding new team members.
 
-Let's clear the meaning and definitions first;
+Let's clean definitions for clean architecture first;
 #### What is a Model
 The part of your app that holds and manages the data and business logic.
 Responsibilities:

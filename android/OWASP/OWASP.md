@@ -1,7 +1,7 @@
 Mentör’e Sunum ya da Yazı: * OWASP Top 10 Mobile ve güvenlik uygulamalarıyla ilgili olarak mentöre bir sunum yapmak veya yazılı bir doküman hazırlayarak sunmak. https://adesso.udemy.com/course/the-complete-mobile-ethical-hacking-course/learn/lecture/17749926?start=0#overview Kursu üzerinden eğitimi takip edip ethical hacking konusunda bilgi sahibi olmak.
 
 # 1. Introduction
-**OWASP (Open Worldwide Application Security Project)** is a global initiative that promotes secure software development. In mobile apps, security is vital due to sensitive data, untrusted environments, and common threats like reverse engineering. To guide developers, OWASP provides the **Mobile Top 10**, a list of the most critical mobile app security risks. The latest 2023 edition highlights issues like insecure credential handling, weak authentication, and supply chain vulnerabilities.
+**OWASP (Open Worldwide Application Security Project)** is a global initiative that promotes secure software development. In mobile apps, security is vital due to sensitive data, untrusted environments, and common threats like reverse engineering. To guide developers, OWASP provides the **Mobile Top 10**, a list of the most critical mobile app security risks. The latest 2024 edition highlights issues like insecure credential handling, weak authentication, and supply chain vulnerabilities.
 - M1: Improper Credential Usage
 - M2: Inadequate Supply Chain Security
 - M3: Insecure Authentication/Authorization
